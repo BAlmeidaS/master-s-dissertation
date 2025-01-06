@@ -1,5 +1,7 @@
 # Bruno Fenali Almeida Master's Dissertation
 
+Online reading: https://drive.google.com/file/d/1dTRkYXFS4LgW8kntWWEOM_luC-wZn2Z0/view
+
 If you use this thesis or repository in your work, please cite it as:
 
 ```
